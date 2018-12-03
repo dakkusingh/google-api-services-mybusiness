@@ -1,0 +1,14 @@
+{
+    "name": "dakkusingh/google-api-services-mybusiness",
+    "description": "PHP library for Google My Business API v4",
+    "homepage": "https://github.com/dakkusingh/google-api-services-mybusiness",
+    "keywords": ["google-api", "google", "api", "my-business", "mybusiness", "api-mybusiness", "google-api-my-business", "google-api-mybusiness"],
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=5.4.0",
+        "google/apiclient": "^2.0"
+    },
+    "autoload": {
+        "files": ["MyBusiness.php"]
+    }
+}
